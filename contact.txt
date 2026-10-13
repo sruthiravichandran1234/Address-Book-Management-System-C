@@ -1,0 +1,13 @@
+12
+John Doe,1234567890,john@example.com
+Riya Thomas,9876543211,riya@example.com
+Maya,1122334455,maya@company.com
+Rishi Varma,9988776655,rishi@company.com
+Mayuri,1112223333,mayuri@yahoo.com
+David Brown,2223334444,david@example.com
+Rakesh,3334445555,rakesh@example.com
+Kamya Sinha,4445556666,kamya14@company.com
+Carol,5556667777,carol@yahoo.com
+David Brown,6667778888,david56@company.com
+Pallav Kumar,7778889999,pallav@company.com
+Selvin,8889991111,selvin5@example.com
